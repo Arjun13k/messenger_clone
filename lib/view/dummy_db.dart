@@ -87,5 +87,9 @@ class DummyDb {
   static List chat = [
     {"msg": "Hey,", "isSender": false},
     {"msg": "Hey! I'm good", "isSender": true},
+    {"msg": "Had food", "isSender": true},
+    {"msg": "ya", "isSender": false},
+    {"msg": "ok, see you,", "isSender": true},
+    {"msg": "ok bye", "isSender": false},
   ];
 }
